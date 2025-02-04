@@ -6,18 +6,17 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A Collaborative LiveDocs</h3>
+  <h3 align="center">InstaDocs - A Collaborative Document Editor</h3>
 
-   <div align="center">
-     This is a side project showcasing a real-time collaborative document editor. Built with Next.js, TypeScript, Liveblocks, Lexical Editor, ShadCN UI, and Tailwind CSS, it delivers a seamless teamwork experience inspired by Google Docs.
-    </div>
+  <div align="center">
+    This is a side project showcasing a real-time collaborative document editor. Built with Next.js, TypeScript, Liveblocks, Lexical Editor, ShadCN UI, and Tailwind CSS, it delivers a seamless teamwork experience inspired by Google Docs.
+  </div>
+  
+  <br />
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Watch Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <br />
 
 </div>
-
-### YouTube Demo
-
-  <a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank"><img src="https://img.shields.io/badge/Watch Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
 
 ## 📋 <a name="table">Table of Contents</a>
 
