@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">InstaDocs - A Collaborative Document Editor</h3>
+  <h3 align="center">ScribeVerge - A Collaborative Document Editor</h3>
 
   <div align="center">
     This is a side project showcasing a real-time collaborative document editor. Built with Next.js, TypeScript, Liveblocks, Lexical Editor, ShadCN UI, and Tailwind CSS, it delivers a seamless teamwork experience inspired by Google Docs.
