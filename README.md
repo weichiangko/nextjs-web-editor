@@ -14,11 +14,6 @@
   <div align="center">
     This is a side project showcasing a real-time collaborative document editor. Built with Next.js, TypeScript, Liveblocks, Lexical Editor, ShadCN UI, and Tailwind CSS, it delivers a seamless teamwork experience inspired by Google Docs.
   </div>
-  
-  <br />
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Watch Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <br />
-
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
