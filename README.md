@@ -1,5 +1,8 @@
-<div align="center">
+<p align="center">
+   <img width="480" src="https://github.com/user-attachments/assets/beacaa31-1e51-43e2-9dd1-5053447244ed" alt="logo" />
+</p>
 
+<div align="center">
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=61DAFB" alt="next.js" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
